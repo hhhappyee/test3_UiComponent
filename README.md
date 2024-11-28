@@ -14,7 +14,7 @@
 
 ![](https://github.com/hhhappyee/test3_UiComponent/blob/master/images/06.png)
 
-![](https://github.com/hhhappyee/test3_UiComponent/blob/master/images/06.gif)
+![](https://github.com/hhhappyee/test3_UiComponent/blob/master/images/04.gif)
 
 ## **创建上下文操作模式(ActionMode)的上下文菜单**
 
